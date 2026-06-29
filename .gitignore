@@ -1,0 +1,5 @@
+statbar
+statbar-demo/
+.DS_Store
+
+# Regenerate demo.gif via Remotion (see scripts/make-demo.sh)
